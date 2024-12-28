@@ -22,8 +22,8 @@
         document.getElementsByTagName("head")[0].appendChild(script);
     }
 
-	if(top.location.href!='http://zc.qq.com/chs/index.html'){
-		top.location.href='http://zc.qq.com/chs/index.html';
+	if(top.location.href!='http://ssl.zc.qq.com/v3/index-en.html'){
+		top.location.href='http://ssl.zc.qq.com/v3/index-en.html';
 		return;
 	}
 
